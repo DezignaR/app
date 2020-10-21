@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MyFirstApp.iml" filepath="$PROJECT_DIR$/.idea/modules/MyFirstApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MyFirstApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MyFirstApp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/firstapp/MyFirstApp.firstapp.iml" filepath="$PROJECT_DIR$/.idea/modules/firstapp/MyFirstApp.firstapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/p100layoutfiles/MyFirstApp.p100layoutfiles.iml" filepath="$PROJECT_DIR$/.idea/modules/p100layoutfiles/MyFirstApp.p100layoutfiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/viewbyid/MyFirstApp.viewbyid.iml" filepath="$PROJECT_DIR$/.idea/modules/viewbyid/MyFirstApp.viewbyid.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,5 @@
+include ':viewbyid'
+include ':p100layoutfiles'
+include ':firstapp'
+include ':app'
+rootProject.name = "MyFirstApp"
